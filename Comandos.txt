@@ -1,8 +1,0 @@
-Este exercício foi muito legal e me trouxe encanto navegar no terminal utilizando comandos e fluindo movimentos ! 
-
-Os comandos que utilizei foram os seguintes: 
-
-Inicialmente eu utilizei uma tabela com comandos de permissão. suas numerações e ordem lógica
- chmod 744 Calculadora.sh 
-Eu entrego ao proprietário total controle e apenas leitura aos demais.
-Para executar o script foi simples, utilizando a linha shebang e colando o código em seguida, a calculadora está fluindo normalmente!
